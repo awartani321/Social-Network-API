@@ -23,7 +23,7 @@ You need to install this application by cloning this repo onto your local device
 
 ### Video
 
-youtube.com/watch?v=LH23E5fXrM8
+* youtube.com/watch?v=LH23E5fXrM8
 
 ### Repo link
 
