@@ -21,7 +21,7 @@ You need to install this application by cloning this repo onto your local device
 * /api/thoughts/:thoughtId/reactions
 * /api/thoughts/:thoughtId/reactions/:reactionId
 
-### Video
+### Video Walkthrough
 
 * youtube.com/watch?v=LH23E5fXrM8
 
